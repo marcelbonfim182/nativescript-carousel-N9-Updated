@@ -1,4 +1,8 @@
 This plugin is now maintained by the fine devs at NStudio. 
+PLUGIN UPDATED FOT NATIVESCRIPT 9+
+Download: nativescript-carousel Updated -7.0.1-ns9.1.tgz
+
+
 You can find the new repo here: https://github.com/nstudio/nativescript-plugins/tree/main/packages/nativescript-carousel
 
 ----------------------------------------------------------------
